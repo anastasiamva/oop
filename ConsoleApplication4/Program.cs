@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication4
 {
+
+    class 
     class Program
+
     {
         static void Main(string[] args)
         {
+            jkkhik
         }
     }
 }
